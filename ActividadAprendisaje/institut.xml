@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<institut>
+    <informatica>
+        <cicle id="ASIX">
+            <nom>Administració de Sistemes Informàtics en Xarxa</nom>
+            <grau>Superior</grau>
+        </cicle>
+        <cicle id="DAW">
+            <nom>Desenvolupament d'Aplicacions Web</nom>
+            <grau>Superior</grau>
+        </cicle>
+        <cicle id="DAM">
+            <nom>Desenvolupament d'Aplicacions Multiplataforma</nom>
+            <grau>Superior</grau>
+        </cicle>
+    </informatica>
+</institut>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exposicio>
+    <obra>
+        <titol>La noche estrellada</titol>
+        <artista> Vincent van Gogh</artista>
+        <any>1889</any>
+        <ubicacio>MoMA</ubicacio>
+    </obra>
+    <obra>
+        <titol>El beso</titol>
+        <artista> Gustav Klimt</artista>
+        <any>1907</any>
+        <ubicacio>Galería Belvedere</ubicacio>
+    </obra>
+    <obra>
+        <titol>Venus del espejo</titol>
+        <artista>Diego Velázquez</artista>
+        <any>1647</any>
+        <ubicacio>National Gallery</ubicacio>
+    </obra>
+    <obra>
+        <titol>Paseo a orillas del mar</titol>
+        <artista>Joaquín Sorolla</artista>
+        <any>1909</any>
+        <ubicacio>Muso Sorolla</ubicacio>
+    </obra>
+</exposicio>
